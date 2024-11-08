@@ -1,10 +1,13 @@
-# Welcome!
-Welcome to Project Lulu's GitHub! This is where the codebase exists.
+# Welcome to Echoir's GitHub!
+Welcome to the Echoir project repository! Here, you’ll find the codebase for the Echoir app, website, and API.
 
-Here you will find the website source, chat app backend and more!
+Feel free to explore and see what we're building!
 
----
+## Meet the Team
+- [CurrentlyEmilia](https://github.com/currentlyemilia)  
+  - **Backend Developer**  
+    Responsible for API creation and initial page prototypes
 
-[CurrentlyEmilia](https://github.com/currentlyemilia) - Backend Developer
-
-[n1d3v / PatrickTBP](https://github.com/n1d3v) - Frontend / Backend Developer
+- [n1d3v / PatrickTBP](https://github.com/n1d3v)  
+  - **Frontend Developer**  
+    CSS styler and frontend designer for the pages
