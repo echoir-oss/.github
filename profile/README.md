@@ -3,7 +3,7 @@ Welcome to the Echoir project repository! Here, you’ll find the codebase for t
 
 Feel free to explore and see what we're building!
 
-## Meet the Team
+## The Team
 - [CurrentlyEmilia](https://github.com/currentlyemilia)  
   - **Backend Developer**  
     Responsible for API creation and initial page prototypes
