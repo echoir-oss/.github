@@ -19,5 +19,5 @@ Here's a couple ways to get in touch with us
 
 # Team members
 - [@n1d3v](https://github.com/n1d3v) (Frontend Developer)
-- [@CurrentlyEmilia](https://github.com/CurrentlyEmilia) (API Backend Developer)
-- [@WorriedArrow](https://github.com/WorriedArrow) (Client Backend Developer)
+- [@CurrentlyEmilia](https://github.com/CurrentlyEmilia) (Backend Developer)
+- [@WorriedArrow](https://github.com/WorriedArrow) (Backend Developer)
