@@ -21,6 +21,4 @@ Here's a couple ways to get in touch with us
 - [@n1d3v](https://github.com/n1d3v) (Frontend Developer)
 - [@CurrentlyEmilia](https://github.com/CurrentlyEmilia) (Backend Developer)
 - [@WorriedArrow](https://github.com/WorriedArrow) (Backend Developer)
-
-### Credits
-- [@FoxTale-Labs](https://github.com/FoxTale-Labs) (Creator of the current client designs) 
+- [@FoxTale-Labs](https://github.com/FoxTale-Labs) (Designer) 
