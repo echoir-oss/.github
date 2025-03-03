@@ -20,5 +20,5 @@ Here's a couple ways to get in touch with us
 # Team members
 - [@n1d3v](https://github.com/n1d3v) (Frontend Developer)
 - [@CurrentlyEmilia](https://github.com/CurrentlyEmilia) (Backend Developer)
-- [@WorriedArrow](https://github.com/WorriedArrow) (Backend Developer)
+- [@WorriedArrow](https://github.com/WorriedArrow) (Fullstack Developer)
 - [@FoxTale-Labs](https://github.com/FoxTale-Labs) (Designer) 
